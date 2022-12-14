@@ -1,0 +1,5 @@
+displayalLED.c:18:6:ToggleLEDRed	16	static
+displayalLED.c:38:6:ToggleLEDYellow	16	static
+displayalLED.c:58:6:ToggleLEDGreen	16	static
+displayalLED.c:78:6:ToggleLEDPedestrian	16	static
+displayalLED.c:103:6:clearLED	16	static

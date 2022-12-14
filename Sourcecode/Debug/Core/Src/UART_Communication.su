@@ -1,0 +1,3 @@
+UART_Communication.c:8:6:sendDATA	8	static
+UART_Communication.c:31:6:sendVALUE_SETTING	16	static
+UART_Communication.c:35:6:Buzzer_RUN	8	static
